@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://hyp5r.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://hyp5r.io/</loc>
+</url>
+<url>
+<loc>https://hyp5r.io/adding-separator-spaces-to-the-dock-in-mac-os-x/</loc>
+<lastmod>2021-07-18T13:21:10-05:00</lastmod>
+</url>
+<url>
+<loc>https://hyp5r.io/disabling-yammer-staffhub-and-delve-from-your-office-365-tenant/</loc>
+<lastmod>2021-07-18T13:21:45-05:00</lastmod>
+</url>
+<url>
+<loc>https://hyp5r.io/docker-oclc-ezproxy-released/</loc>
+<lastmod>2021-07-18T13:18:23-05:00</lastmod>
+<image:image>
+<image:loc>https://hyp5r.io/media\posts\2/chuttersnap-xewrfLD8emE-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://hyp5r.io/locking-down-a-linux-server-the-entryways/</loc>
+<lastmod>2021-07-18T13:21:26-05:00</lastmod>
+</url>
+<url>
+<loc>https://hyp5r.io/sometimes-the-best-way-to-help-is-to-do-nothing/</loc>
+<lastmod>2021-07-18T13:18:45-05:00</lastmod>
+<image:image>
+<image:loc>https://hyp5r.io/media\posts\1/toa-heftiba-_UIVmIBB3JU-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
